@@ -1,0 +1,62 @@
+[
+  {
+    "author": "John Smith",
+    "article_title": "The Future of Artificial Intelligence in Healthcare",
+    "medium_url": "https://medium.com/@johnsmith/the-future-of-artificial-intelligence-in-healthcare-123456",
+    "linkedin_url": "https://linkedin.com/in/johnsmith"
+  },
+  {
+    "author": "Jane Doe",
+    "article_title": "How AI is Transforming the Financial Industry",
+    "medium_url": "https://medium.com/@janedoe/how-ai-is-transforming-the-financial-industry-789012",
+    "linkedin_url": "https://linkedin.com/in/janedoe"
+  },
+  {
+    "author": "Jane Doe",
+    "article_title": "Machine Learning Basics Everyone Should Know",
+    "medium_url": "https://medium.com/@janedoe/machine-learning-basics-everyone-should-know-345678",
+    "linkedin_url": "https://linkedin.com/in/janedoe"
+  },
+  {
+    "author": "Alex Johnson",
+    "article_title": "Ethical Considerations in AI Development",
+    "medium_url": "https://medium.com/@alexjohnson/ethical-considerations-in-ai-development-901234",
+    "linkedin_url": "https://linkedin.com/in/alexjohnson"
+  },
+  {
+    "author": "Sarah Williams",
+    "article_title": "The Role of AI in Climate Change Solutions",
+    "medium_url": "https://medium.com/@sarahwilliams/the-role-of-ai-in-climate-change-solutions-567890",
+    "linkedin_url": "https://linkedin.com/in/sarahwilliams"
+  },
+  {
+    "author": "Michael Brown",
+    "article_title": "AI and the Future of Work",
+    "medium_url": "https://medium.com/@michaelbrown/ai-and-the-future-of-work-123456",
+    "linkedin_url": "https://linkedin.com/in/michaelbrown"
+  },
+  {
+    "author": "Emily Chen",
+    "article_title": "Deep Learning Explained Simply",
+    "medium_url": "https://medium.com/@emilychen/deep-learning-explained-simply-789012",
+    "linkedin_url": "https://linkedin.com/in/emilychen"
+  },
+  {
+    "author": "David Wilson",
+    "article_title": "How to Build Your First AI Model",
+    "medium_url": "https://medium.com/@davidwilson/how-to-build-your-first-ai-model-345678",
+    "linkedin_url": "https://linkedin.com/in/davidwilson"
+  },
+  {
+    "author": "Lisa Garcia",
+    "article_title": "AI in Education: Transforming How We Learn",
+    "medium_url": "https://medium.com/@lisagarcia/ai-in-education-transforming-how-we-learn-901234",
+    "linkedin_url": "https://linkedin.com/in/lisagarcia"
+  },
+  {
+    "author": "Robert Taylor",
+    "article_title": "The Business Case for Implementing AI",
+    "medium_url": "https://medium.com/@roberttaylor/the-business-case-for-implementing-ai-567890",
+    "linkedin_url": "https://linkedin.com/in/roberttaylor"
+  }
+]
