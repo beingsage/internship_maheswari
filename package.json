@@ -1,0 +1,15 @@
+{
+  "name": "maheswari",
+  "version": "1.0.0",
+  "description": "This project uses Playwright and Browser-Use to automate searching Medium for artificial intelligence articles, collecting author information, and finding their LinkedIn profiles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
